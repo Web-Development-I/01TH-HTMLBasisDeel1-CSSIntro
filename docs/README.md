@@ -9,4 +9,4 @@ Uitgewerkte voorbeelden:
 
 Om deze repository te downloaden of te clonen gebruik je de groene knop **Code <span style="font-size:x-small">&#9660;</span>**.
 
-Opmerking De maps **docs** in deze repository mag je negeren.
+**Opmerking** De maps **docs** in deze repository mag je negeren.
