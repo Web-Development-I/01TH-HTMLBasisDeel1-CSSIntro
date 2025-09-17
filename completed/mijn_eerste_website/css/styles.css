@@ -14,10 +14,10 @@ img {
   /* een achtergrondkleur instellen voor het transparante logo */
   background-color: white;
   /* de afbeelding responsive maken */
-  max-inline-size: 100%;
+  max-width: 100%;
 }
 
 .inspringing {
   /* sommige paragrafen geven we een linkse inspringing */
-  margin-inline: 40px;
+  margin-left: 40px;
 }
